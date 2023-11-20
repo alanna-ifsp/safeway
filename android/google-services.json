@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547452124387",
+    "project_id": "safeway-b6119",
+    "storage_bucket": "safeway-b6119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547452124387:android:9f9a05c40c601457cc99d6",
+        "android_client_info": {
+          "package_name": "com.example.safeway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOQPc4i9aAGNhby6v0U44WqmKyCtwi3jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
